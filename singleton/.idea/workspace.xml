@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b11707-a326-472a-b037-4c798095d79c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ytas0frJEHcSzsDnDRkt8OtTn8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatutorial.Main" />
+      <module name="singleton" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b11707-a326-472a-b037-4c798095d79c" name="Default Changelist" comment="" />
+      <created>1583764546702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583764546702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="257" width="374" height="599" key="#com.intellij.ide.util.MemberChooser" timestamp="1583764989341">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="803" y="257" width="374" height="599" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1583764989341" />
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1583767029918">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1583767029918" />
+    <state width="1804" height="275" key="GridCell.Tab.0.center" timestamp="1583767029917">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1583767029917" />
+    <state width="1804" height="275" key="GridCell.Tab.0.left" timestamp="1583767029916">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1583767029916" />
+    <state width="1804" height="275" key="GridCell.Tab.0.right" timestamp="1583767029917">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1583767029917" />
+    <state x="253" y="143" width="1474" height="827" key="new project wizard" timestamp="1583767028008">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="253" y="143" width="1474" height="827" key="new project wizard/70.27.1850.1053@70.27.1850.1053" timestamp="1583767028008" />
+    <state x="659" y="252" key="run.anything.popup" timestamp="1583764676743">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="659" y="252" key="run.anything.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1583764676743" />
+  </component>
+</project>
