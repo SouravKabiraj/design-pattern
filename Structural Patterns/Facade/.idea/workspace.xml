@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ea01880-dd55-4d90-bfd0-dfe3e86047e8" name="Default Changelist" comment="" />
+    <list default="true" id="5ea01880-dd55-4d90-bfd0-dfe3e86047e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1YzZwZFBbnxqHz4PJtT5pem7slB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Decorator" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -52,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583947622869</updated>
       <workItem from="1583947625610" duration="1413000" />
+      <workItem from="1585810506813" duration="208000" />
     </task>
     <servers />
   </component>
@@ -63,6 +71,10 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="708" y="257" width="563" height="606" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1583948291347" />
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585810713321">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1585810713321" />
     <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1583951763290">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
